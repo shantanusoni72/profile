@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89c0c073.chunk.css",
+    "main.js": "/static/js/main.abb7b37c.chunk.js",
+    "main.js.map": "/static/js/main.abb7b37c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd066650.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd066650.js.map",
+    "static/js/2.c634e822.chunk.js": "/static/js/2.c634e822.chunk.js",
+    "static/js/2.c634e822.chunk.js.map": "/static/js/2.c634e822.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.be03d95882974dec9ead617fbb44e57d.js": "/precache-manifest.be03d95882974dec9ead617fbb44e57d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.89c0c073.chunk.css.map": "/static/css/main.89c0c073.chunk.css.map",
+    "static/js/2.c634e822.chunk.js.LICENSE.txt": "/static/js/2.c634e822.chunk.js.LICENSE.txt",
+    "static/media/100.jpg": "/static/media/100.53c38366.jpg",
+    "static/media/100.png": "/static/media/100.8f1df092.png",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
+    "static/media/codeInLogo.png": "/static/media/codeInLogo.b3685be8.png",
+    "static/media/creeper.png": "/static/media/creeper.7927bdc3.png",
+    "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.7a9b2eb0.png",
+    "static/media/edu_degree.gif": "/static/media/edu_degree.79c3af4e.gif",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/hrishi2.png": "/static/media/hrishi2.66e2d22b.png",
+    "static/media/ino.png": "/static/media/ino.ccf88661.png",
+    "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
+    "static/media/quicko.jpg": "/static/media/quicko.e56f163e.jpg",
+    "static/media/sal.png": "/static/media/sal.62ac09c3.png",
+    "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
+    "static/media/steve-minecraft.gif": "/static/media/steve-minecraft.499aa79a.gif",
+    "static/media/svvv.png": "/static/media/svvv.23a3dafc.png",
+    "static/media/vjt.png": "/static/media/vjt.c54faf17.png",
+    "static/media/wrighter.jpg": "/static/media/wrighter.02fdae43.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd066650.js",
+    "static/js/2.c634e822.chunk.js",
+    "static/css/main.89c0c073.chunk.css",
+    "static/js/main.abb7b37c.chunk.js"
+  ]
+}
