@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/shantanusoni/static/css/main.b8ea6442.chunk.css",
+    "main.js": "/shantanusoni/static/js/main.9f09f14f.chunk.js",
+    "main.js.map": "/shantanusoni/static/js/main.9f09f14f.chunk.js.map",
+    "runtime-main.js": "/shantanusoni/static/js/runtime-main.5cc588ab.js",
+    "runtime-main.js.map": "/shantanusoni/static/js/runtime-main.5cc588ab.js.map",
+    "static/js/2.d0685503.chunk.js": "/shantanusoni/static/js/2.d0685503.chunk.js",
+    "static/js/2.d0685503.chunk.js.map": "/shantanusoni/static/js/2.d0685503.chunk.js.map",
+    "index.html": "/shantanusoni/index.html",
+    "precache-manifest.8a08f530805e1367a954cc8933d048a2.js": "/shantanusoni/precache-manifest.8a08f530805e1367a954cc8933d048a2.js",
+    "service-worker.js": "/shantanusoni/service-worker.js",
+    "static/css/main.b8ea6442.chunk.css.map": "/shantanusoni/static/css/main.b8ea6442.chunk.css.map",
+    "static/js/2.d0685503.chunk.js.LICENSE.txt": "/shantanusoni/static/js/2.d0685503.chunk.js.LICENSE.txt",
+    "static/media/100.jpg": "/shantanusoni/static/media/100.53c38366.jpg",
+    "static/media/100.png": "/shantanusoni/static/media/100.8f1df092.png",
+    "static/media/index.css": "/shantanusoni/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/buld.jpg": "/shantanusoni/static/media/buld.a1051a22.jpg",
+    "static/media/codeInLogo.png": "/shantanusoni/static/media/codeInLogo.b3685be8.png",
+    "static/media/creeper.png": "/shantanusoni/static/media/creeper.7927bdc3.png",
+    "static/media/deeplearning_ai_logo.png": "/shantanusoni/static/media/deeplearning_ai_logo.7a9b2eb0.png",
+    "static/media/edu_degree.gif": "/shantanusoni/static/media/edu_degree.79c3af4e.gif",
+    "static/media/all.css": "/shantanusoni/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/googleAssistant.jpg": "/shantanusoni/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/hrishi2.png": "/shantanusoni/static/media/hrishi2.66e2d22b.png",
+    "static/media/ino.png": "/shantanusoni/static/media/ino.ccf88661.png",
+    "static/media/intel_logo.jpg": "/shantanusoni/static/media/intel_logo.29152cf7.jpg",
+    "static/media/quicko.jpg": "/shantanusoni/static/media/quicko.e56f163e.jpg",
+    "static/media/sal.png": "/shantanusoni/static/media/sal.62ac09c3.png",
+    "static/media/stanford_logo.png": "/shantanusoni/static/media/stanford_logo.da0e7c80.png",
+    "static/media/steve-minecraft.gif": "/shantanusoni/static/media/steve-minecraft.499aa79a.gif",
+    "static/media/svvv.png": "/shantanusoni/static/media/svvv.23a3dafc.png",
+    "static/media/vjt.png": "/shantanusoni/static/media/vjt.c54faf17.png",
+    "static/media/wrighter.jpg": "/shantanusoni/static/media/wrighter.02fdae43.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cc588ab.js",
+    "static/js/2.d0685503.chunk.js",
+    "static/css/main.b8ea6442.chunk.css",
+    "static/js/main.9f09f14f.chunk.js"
+  ]
+}
